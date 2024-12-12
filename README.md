@@ -1,4 +1,4 @@
-# README: Rider Delivery Route Visualization with RL and OSRM
+# Rider Delivery Route Visualization with RL and OSRM
 
 ## Overview
 This project demonstrates a Rider Delivery Route Visualization application. It integrates various APIs and methods to calculate routes, simulate Reinforcement Learning (RL)-optimized paths, and visualize these routes on an interactive map. The application is built using Python and Folium for visualization.
